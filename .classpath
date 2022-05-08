@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/selenium-server-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/Desktop/New folder (2)/jar/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
